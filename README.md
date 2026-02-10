@@ -3,7 +3,6 @@
 This project implements a Speaker Verification system developed as part of my Speech Processing internship.  
 The goal is simple: **verify whether two audio samples belong to the same speaker** using deep learning–based audio embeddings.
 
----
 
 ## 🚀 Project Overview
 
@@ -18,7 +17,6 @@ This notebook explores:
 
 The project is implemented inside a Jupyter Notebook and follows a simple, easy-to-reproduce structure.
 
----
 
 ## 📁 Repository Structure
 
@@ -38,7 +36,6 @@ speaker-verification-model/
 │── requirements.txt
 │── .gitignore
 
----
 
 ## 🧠 Model Details
 
@@ -50,7 +47,6 @@ speaker-verification-model/
 
 The trained model file (`speaker_cnn_trained.pth`) is included and used directly by the verification notebook.
 
----
 
 ## 📊 Results & Evaluation
 
@@ -64,7 +60,6 @@ The model is evaluated using:
 
 (These plots are located in the `results/` folder.)
 
----
 
 ## 📦 How to Run Locally
 
@@ -89,7 +84,6 @@ Then open:
 - `notebooks/model_training.ipynb`
 - `notebooks/model_testing.ipynb`
 
----
 
 ## 📘 Dataset Notes
 
